@@ -1,0 +1,19 @@
+body{
+	text-align: center;
+}
+
+h1, h5{
+	font: italic bold 18px sans-serif;
+	color: blue;
+}
+
+p{
+	font: italic 14px sans-serif;
+}
+
+/* Positioning of the cards. */
+.position{
+	float: left;
+	margin-left: 105px;
+	padding: 5px;
+}
